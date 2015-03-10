@@ -1,5 +1,6 @@
 # DB
 *.db
+*.sqlite3
 # PyCharm
 .idea/
 # Media
